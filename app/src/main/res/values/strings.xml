@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">TRDZ_Dictionary</string>
+    <string name="app_name">Словарик</string>
+    <string name="word_list_title">Найденые слова</string>
+    <string name="word_list_alter">Чтоб узнать сегодня</string>
+    <string name="_0">0</string>
+    <string name="hint_help">Хочу найти…</string>
+    <string name="t_tire">-</string>
+    <string name="е">игиф</string>
+    <string name="favor_title">Избранное</string>
+    <string name="history">Историә</string>
+    <string name="menu_fav">Избранное</string>
+    <string name="menu_mem">Память</string>
+    <string name="menu_del">Удалить</string>
 </resources>
